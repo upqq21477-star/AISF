@@ -2,7 +2,7 @@
 解壓縮後，留compact及可，這是壓縮後內容，另一個是註解版，比較消耗tolken 
 將兩個檔案重新壓縮，對話時上傳壓縮檔，與人物頭像
 第一次輸入AIFS:SCAN
-gpt會回報參數，與缺乏的頭像頭像狀態
+gpt會回報參數，與缺乏的頭像狀態
 後續補充資料，上傳圖片+指令
 AIFS:SCAN:DUAL
 AIFS:SCAN:PROGRESSIVE
